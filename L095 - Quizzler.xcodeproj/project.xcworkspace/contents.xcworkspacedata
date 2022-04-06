@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Quizzler-iOS13.xcodeproj">
+      location = "self:/Users/arthur/_git/edu-ios-lesson095/L095 - Quizzler.xcodeproj">
    </FileRef>
 </Workspace>
